@@ -4,3 +4,6 @@ def square_array(array)
     numbers << number ** 2 
   end
 end
+
+return numbers
+end
